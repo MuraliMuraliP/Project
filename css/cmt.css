@@ -1,0 +1,19 @@
+div.solid{
+       border: 1px solid black;
+         }
+div.dotted{
+         border: 2px dotted red;
+        } div.dashed{
+                        border: 3px dashed blue;
+                      }
+                      div.double{
+                        border: 4px double green;
+                      }
+                      div.groove{
+                        border: 5px groove purple;
+                        border-top: 1px solid black;
+                        border-right: 2px dotted red;
+                        border-bottom: 3px dashed blue;
+                        border-left: 4px double green;
+                      }
+

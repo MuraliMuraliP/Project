@@ -1,0 +1,32 @@
+body{
+	background-color: black;
+}
+.content{
+	color: white;
+  
+}
+span{
+  color:#f9004d;
+}
+.head{
+	color: white;
+}
+.name{
+	color: white;
+}
+span{
+  color:#f9004d;
+}
+nav ul li a:hover{
+ color:#f9004d;
+ transition:.4s;
+}
+nav{
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 45px;
+  padding-left: 8%;
+  padding-right: 8%;
+}
+
